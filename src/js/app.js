@@ -12,7 +12,6 @@ module.exports = (function() {
     var factory = require('./factories/Demo.factory');
     var stuff = [1,2,3,4,5];
 
-
     factory.doSomeFactoryStuff(stuff);
 
     // from here include everything else

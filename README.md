@@ -1,4 +1,4 @@
-# Basis Frontend-Theme with gulp, bourbon, neat and browserify
+# Stop Motion width javascript
 
 Following dependencies are required for this project:
 

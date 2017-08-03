@@ -3,6 +3,5 @@
  */
 
 module.exports = {
-    chapterController : require('./chapter.controller'),
-    navController : require('./nav.controler')
+    spritController : require('./sprite.controller')
 };
