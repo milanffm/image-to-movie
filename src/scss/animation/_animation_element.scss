@@ -15,3 +15,16 @@
 @keyframes play {
     100% { background-position: -1900px; }
 }
+
+.animation2 {
+    width: 210px;
+    height: 423px;
+    background: url("../../static/img/test2.jpg") left center;
+    animation: play2 3.2s steps(64) infinite;
+}
+
+
+@keyframes play2 {
+    100% { background-position: -13440px; }
+}
+
